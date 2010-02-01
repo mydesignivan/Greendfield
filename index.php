@@ -68,8 +68,8 @@ var Slider = new Class_Slider({
         <p>Donec eu mi sed turpis feugiat feugiat. Integer turpis arcu, pellentesque  eget, cursus et, fermentum ut, sapien. Fusce metus mi, eleifend  sollicitudin, molestie id, varius et, nibh. Donec nec libero.</p>
      </div>-->
      
-        <div id="mainContent" class="tourism curved">      
-	        <div class="top-menu-secundary curved">
+        <div id="mainContent" class="tourism ">      
+	        <div class="top-menu-secundary ">
                 <ul>
                     <li><a href="#" onclick="Slider.slide({url: 'includes/videos.php'}, 1); return false;"><img src="images/icon_video.png" alt="" border="0" align="absmiddle" width="24" /> Videos</a></li>
                   <li><a href="#" onclick="Slider.slide({url: 'includes/fotogalerie.php', callback: set_images}, 2); return false;"><img src="images/icon_fotogalerie.png" alt="" border="0" align="absmiddle" width="24" /> Fotogalerie</a></li>
@@ -77,7 +77,7 @@ var Slider = new Class_Slider({
      		</div>
             <!--end top-menu-secundary-->
         
-            <div id="intro" class="curved">
+            <div id="intro" class="">
                 <div class="img-left"><img src="images/foto_intro_left.png" alt="" /></div>
                 <div id="content">
                     <div id="container_intro"></div>
