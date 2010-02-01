@@ -1,0 +1,19 @@
+/*
+ * jQuery JavaScript Library v1.3
+ * http://jquery.com/
+ *
+ * Copyright (c) 2009 Ivan Mattoni
+ * Empresa MyDesign
+ * Dual licensed under the MIT and GPL licenses.
+ * http://docs.jquery.com/License
+ *
+ */
+
+.slider_content{
+	float:none;
+	position:absolute;
+	width:100%;
+	background-color:#CCCCCC;
+	top:0;
+	left:0;
+}

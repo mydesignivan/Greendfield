@@ -1,0 +1,1 @@
+<p>Copyright &copy; 2009 - Todos los derechos reservados - <a href="vertraulichkeitserklarung.php">Vertraulichkeitserkl&auml;rung</a>  - Dise&ntilde;ado por <a href="www.mydesign.com.ar" target="_blank">MyDesign.com.ar</a></p>

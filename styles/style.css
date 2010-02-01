@@ -1,0 +1,424 @@
+@charset "utf-8";
+/* CSS Document */
+
+p{
+	text-align:justify;
+}
+
+ body  {
+    	font-family: "Trebuchet MS";
+		font-size:14px;
+    	margin: 0; /* es recomendable ajustar a cero el margen y el relleno del elemento body para lograr la compatibilidad con la configuración predeterminada de los diversos navegadores */
+    	padding: 0;
+    	text-align: center; /* esto centra el contenedor en los navegadores IE 5*. El texto se ajusta posteriormente con el valor predeterminado de alineación a la izquierda en el selector #container */
+    	color: #000000;
+    }
+	
+	.tourism{
+		background:#B3D4C3;
+	}
+	.spanish{
+		background:#EAE5BD;
+	}
+	.fachpraktika{
+		background:#F4D0BA;
+	}
+	.voluntariat{
+		background:#E1B5B6;
+	}
+	.tipps{
+		background:#B3C2D5;
+	}
+    #container { 
+    	width: 1000px;  /* el uso de 20px menos que un ancho completo de 800px da cabida a los bordes del navegador y evita la aparición de una barra de desplazamiento horizontal */
+    	margin: 0 auto; /* los márgenes automáticos (conjuntamente con un ancho) centran la página */
+    	text-align: left; /* esto anula text-align: center en el elemento body. */
+    } 
+	
+/*Inicio header*/
+	
+    #header { 
+    	padding: 20px 10px 0 20px;  /* este relleno coincide con la alineación izquierda de los elementos de los divs que aparecen bajo él. Si se utiliza una imagen en el #header en lugar de texto, es posible que le interese quitar el relleno. */
+		height:350px;
+    } 
+    #header h1 {
+    	margin: 0; /* el ajuste en cero del margen del último elemento del div de #header evita la contracción del margen (un espacio inexplicable entre divs). Si el div tiene un borde alrededor, esto no es necesario, ya que también evita la contracción del margen */
+    	padding: 10px 0; /* el uso de relleno en lugar de margen le permitirá mantener el elemento alejado de los bordes del div */
+    }
+	#header .logo{
+		position:relative;
+		float:left;
+		height:50px;
+		margin-left:20px;
+		margin-top:-10px;
+	}
+	#header .webname{
+	position:relative;
+	float:left;
+	color:#104365;
+	font-style:italic;
+	margin-left:30px;
+	margin-top:40px;
+	}
+	#header .menu-top{
+	position:relative;
+	float:right;
+	width:350px;
+	margin-top:-40px;
+	margin-bottom:-20px;
+	margin-right:0px;
+	}
+	#header .menu-top ul{
+	display:inline;
+	}
+	#header .menu-top li{
+	list-style:none;
+	display:inline;
+	}
+	#header .flash-top{
+		margin-left:-33px;
+		float:left;
+		margin-top:0px;
+	}
+	#header .gaucho-header{
+	position:absolute;
+	margin-left:760px;
+	margin-top:250px;
+	}
+
+	
+	
+/*fin header*/
+	.curved {
+		-moz-border-radius: 10px;
+		-webkit-border-radius: 10px;
+	}
+/*menu right*/	
+    #sidebar1 {
+    	float: right; /* dado que este elemento es flotante, debe asignarse un ancho */
+    	width: 200px; /* el ancho real de este div, en navegadores que cumplen los estándares, o el modo de estándares de Internet Explorer, incluirá el relleno y el borde además del ancho */
+    	padding: 15px 10px;
+		margin-right:30px;
+    }
+/*fin menu right*/
+	
+	
+/*contenido*/
+    #mainContent { 
+    	margin: 0 250px 0 0; /* el margen derecho de este elemento div crea la columna situada a lo largo del lado derecho de la página (con independencia de la cantidad de contenido que tenga el div sidebar1, se mantendrá el espacio de la columna). Puede quitar este margen si desea que el texto del div #mainContent llene el espacio de #sidebar1 cuando termine el contenido de #sidebar1. */
+    	padding: 1px 20px; /* recuerde que el relleno es el espacio situado dentro del cuadro div y que el margen es el espacio situado fuera del cuadro div */
+		width:910px;
+		min-height:500px;
+		margin-left:20px;
+		margin-top:20px;
+    } 
+	#mainContent .top-menu-secundary{
+	width:300px;
+	margin-left:0px;
+	}
+	#mainContent .top-menu-secundary li{
+	display:inline;
+	list-style:none;
+	padding-left: 0px;
+	padding-right:40px;
+	margin-left:-20px;
+	}
+	#mainContent .top-menu-secundary a{
+	text-decoration:none;
+	font-size:16px;
+	font-weight:bold;
+	color:#000000;
+	}
+	
+	#intro {
+		float:left;
+		position:relative;
+		background:#ffffff;
+		width:550px;
+		position:relative;
+		padding-left:100px;
+		padding-right:20px;
+	}
+		#intro a{
+			color:#24743D;
+			font-weight:bold;
+			text-decoration:none;
+		}
+		#intro a:hover{
+			color:#000000;
+			text-decoration:none;
+		}
+		#intro .img-left{
+			margin-left:-150px;
+			position:relative;
+			float:left;
+			z-index:10;
+		}
+		#intro .intro-more{
+			position:absolute;
+			left:250px;
+			top:300px;
+			width:80px;
+			z-index:11;
+			background-color:#FF3399;
+			text-align:center;
+		}
+		#intro #content{
+			float:left;
+			position:relative;
+			margin-left:0px;
+			margin-top:0px;
+			width:550px;
+			overflow:hidden;
+		}		
+			#intro #content #container_intro{
+				position:absolute;
+				top:0;
+				left:0;
+				width:540px;
+				height:auto;
+			}
+			#intro #content #container_intro li{
+				list-style-type:none;
+			}		
+		
+	#videos{
+	width:200px;
+	position:relative;
+	float:left;
+	margin-left:-15px;
+	}
+	#videos a{
+	text-decoration:none;
+	color:#000000;
+	}
+	#videos li{
+	list-style:none;
+	/*list-style-image:url(../images/pasantias.png)*/
+	background:#FFFFFF;
+	width:190px;
+	min-height:20px;
+	max-height:40px;
+	padding:10px 10px;
+	margin-top:20px;
+	}
+    #footer {
+		margin-top:10px;
+    	padding: 0 10px 0 20px; /* este relleno coincide con la alineación izquierda de los elementos de los divs que aparecen por encima de él. */
+    } 
+    #footer p {
+    	margin: 0; /* el ajuste en cero de los márgenes del primer elemento del pie evitará que puedan contraerse los márgenes (un espacio entre divs) */
+    	padding: 10px 0; /* el relleno de este elemento creará espacio, de la misma forma que lo haría el margen, sin el problema de la contracción de márgenes */
+    }
+    .fltrt { /* esta clase puede utilizarse para que un elemento flote en la parte derecha de la página. El elemento flotante debe preceder al elemento junto al que debe aparecer en la página. */
+    	float: right;
+    	margin-left: 8px;
+    }
+    .fltlft { /* esta clase puede utilizarse para que un elemento flote en la parte izquierda de la página. */
+    	float: left;
+    	margin-right: 8px;
+    }
+    .clearfloat { /* esta clase debe colocarse en un elemento div o break y debe ser el último elemento antes del cierre de un contenedor que incluya completamente a un elemento flotante */
+    	clear:both;
+        height:0;
+        font-size: 1px;
+        line-height: 0px;
+    }	
+	.clear { /* esta clase debe colocarse en un elemento div o break y debe ser el último elemento antes del cierre de un contenedor que incluya completamente a un elemento flotante */
+    	clear: left;
+        height:0;
+        font-size: 1px;
+        line-height: 0px;
+    }	
+	#stickies-bottom{
+		position:relative;
+		width:920px;
+		/*border-top:1px dashed #000000;*/
+	}
+	#stickies-bottom h3{
+		text-align:center;
+	}
+	#stickies-bottom a{
+		color:#24743D;
+		text-decoration:none;
+	}
+	#stickies-bottom .stickies-verde{
+		float:left;
+		background:url(../images/rec_verde2.png) top left no-repeat;
+		position:relative;
+		width:225px;
+		height:120px;
+		padding:10px 10px 0 10px;
+		margin-left:-15px;
+	}
+	#stickies-bottom .stickies-naranja{
+		float:left;
+		background:url(../images/rec_naranja2.png) top left no-repeat;
+		position:relative;
+		width:225px;
+		height:120px;
+		padding:10px 10px 0 10px;
+		margin-left:-15px;
+	}
+	#stickies-bottom .stickies-rosa{
+		float:left;
+		background:url(../images/rec_rosa2.png) top left no-repeat;
+		position:relative;
+		width:225px;
+		height:120px;
+		padding:10px 10px 0 10px;
+		margin-left:-15px;
+	}
+	#stickies-bottom .stickies-azul{
+		float:left;
+		background:url(../images/rec_azul2.png) top left no-repeat;
+		position:relative;
+		width:225px;
+		height:120px;
+		padding:10px 10px 0 10px;
+		margin-left:-15px;
+	}
+	#stickies-right{
+		float:right;
+		width:205px;
+		margin-top:20px;
+		margin-right:17px;
+	}
+	#stickies-right a{
+		color:#24743D;
+		text-decoration:none;
+	}
+	#stickies-right h3{
+		text-align:center;
+	}
+	#stickies-right .stickies-verde{
+		float:left;
+		background:url(../images/rec_verde2.png) top left no-repeat;
+		position:relative;
+		width:225px;
+		height:100px;
+		padding:10px 10px 0 10px;
+		margin-left:-10px;
+		margin-top:0px;
+	}
+	#stickies-right .stickies-naranja{
+		float:left;
+		background:url(../images/rec_naranja2.png) top left no-repeat;
+		position:relative;
+		width:225px;
+		height:100px;
+		padding:10px 10px 0 10px;
+		margin-left:-10px;
+		margin-top:0px;
+	}
+	#stickies-right .stickies-rosa{
+		float:left;
+		background:url(../images/rec_rosa2.png) top left no-repeat;
+		position:relative;
+		width:225px;
+		height:100px;
+		padding:10px 10px 0 10px;
+		margin-left:-10px;
+		margin-top:0px;
+	}
+	#stickies-right .stickies-azul{
+		float:left;
+		background:url(../images/rec_azul2.png) top left no-repeat;
+		position:relative;
+		width:225px;
+		height:110px;
+		padding:0 10px 0 10px;
+		margin-left:-10px;
+		margin-top:0px;
+	}
+
+
+/*----------------------------- Galeria de Imagenes -----------------------------*/
+	.container_images{
+		float:left;		
+		margin:0;
+		padding:0;
+		list-style-type:none;
+		width:100%;
+		min-height:130px;
+	}
+		.container_images li{
+			display:inline;
+			float:left;
+			margin-right:8px;
+			margin-bottom:10px;
+			list-style-type:none;
+		}
+			.container_images li a{
+				float:left;
+				outline: none;
+				display:inline;
+				border:2px solid #A2B4C3;
+				padding:5px;
+				width:128px;
+				/*height:96px;*/
+				text-align:center;
+			}
+/*--------------------------------------------------------------------------------*/
+
+/*--------------- Formulario de Contacto -------------------*/
+.container_contact{
+	list-style-type:none;
+	margin-top:5px;
+	margin-left:0px;
+	padding:0px;
+	float:left;
+	width:500px;
+}
+	.container_contact li{
+		display:list-item;
+		float:left;
+		width:100%;
+		text-align:left;
+		margin-bottom:10px;
+		font-size:14px;
+	}
+		.container_contact li .cell{
+			float:left;
+			width:70px;
+			overflow:hidden;
+			white-space:nowrap;
+		}
+		.container_contact li input{
+			float:left;
+			width:300px;
+		}
+		.container_contact li textarea{
+			float:left;
+			width:370px;
+		}
+		.container_contact li .button{
+			width:100px;
+		}
+		.container_contact li .legend{
+			margin-top:5px;
+			font-size:14px;
+		}
+		.container_contact li .legend{
+			margin-top:10px;
+		}
+/*-------------------------------------------------------------*/
+
+/*---- Boton para volver a las secciones ----*/
+.backPage{
+	position:absolute;
+	height:32px;
+	top:5px;
+	left:455px;
+}
+	.backPage a{
+		text-decoration:none;
+		border:none;
+	}
+/*-------------------------------------------*/
+
+.water{
+margin-left:-20px;
+float:left;
+margin-top:-130px;
+}

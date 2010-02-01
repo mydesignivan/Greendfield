@@ -1,0 +1,49 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Documento sin t&iacute;tulo</title>
+
+<script type="text/javascript" src="../../jquery-1.3.2.min.js"></script>
+
+<!--======= SCRIPT: SLIDER ========-->
+<link rel="stylesheet" href="../css/jquery.slider.css" type="text/css" />
+<script type="text/javascript" src="../js/jquery.slider.js"></script>
+<script type="text/javascript">
+<!--
+var Slider = new Class_Slider({
+	selector_content : '#container .slider_content',
+	url_default: 'page1.html'
+});
+-->
+</script>
+<!--======== END SCRIPT SLIDER =========-->
+
+<style type="text/css">
+#container{
+	position:relative;
+	float:left;
+	width:600px;
+	height:300px;
+	border:1px solid #999999;
+	overflow:hidden;
+	padding:5px;
+}
+</style>
+</head>
+
+<body>
+	
+    <p>
+    	<a href="#" class="slider_link" onclick="Slider.slide({url: 'page1.html'}, 1); return false;">P&aacute;gina 1</a>&nbsp;|&nbsp;
+    	<a href="#" class="slider_link" onclick="Slider.slide({url: 'page2.html'}, 2); return false;">P&aacute;gina 2</a>&nbsp;|&nbsp;
+    	<a href="#" class="slider_link" onclick="Slider.slide({url: 'page3.html'}, 3); return false;">P&aacute;gina 3</a>&nbsp;|&nbsp;
+    	<a href="#" class="slider_link" onclick="Slider.slide({url: 'page4.html'}, 4); return false;">P&aacute;gina 4</a>
+    </p>
+    
+    <div id="container">
+    	<div class="slider_content"></div>
+    </div>
+
+</body>
+</html>
