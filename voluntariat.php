@@ -33,11 +33,11 @@ var Slider = new Class_Slider({
         <p>El color de fondo de este div sólo se mostrará a lo largo del contenido. Si desea utilizar una línea divisoria en su lugar, coloque un borde en el lado derecho del div #mainContent si siempre va a incluir más contenido. </p>
         <p>Donec eu mi sed turpis feugiat feugiat. Integer turpis arcu, pellentesque  eget, cursus et, fermentum ut, sapien. Fusce metus mi, eleifend  sollicitudin, molestie id, varius et, nibh. Donec nec libero.</p>
      </div>-->
-     
-        <div id="mainContent" class="curved voluntariat">      
+     <div class="voluntariat-top"></div>
+        <div id="mainContent" class="voluntariat">      
 	        <!--top-menu-secundary-->
         <br />
-			<div id="intro" class="curved">
+			<div id="intro" class="">
                 <div class="img-left"><img src="images/fotos_voluntariat_left.png" alt="" /></div>
                 <div id="content">
                     <div id="container_intro"></div>
@@ -53,7 +53,7 @@ var Slider = new Class_Slider({
 <div class="clear"></div>
 <br />
   </div><!-- end #mainContent -->
-      
+      <div class="voluntariat-bottom"></div>
     	<!-- Este elemento de eliminación siempre debe ir inmediatamente después del div #mainContent para forzar al div #container a que contenga todos los elementos flotantes hijos --><br class="clearfloat" />
 
       <div id="footer">

@@ -72,12 +72,12 @@ if( $_SERVER['REQUEST_METHOD']=="POST" && $_POST["send"]=="ok" ){
         <p>El color de fondo de este div sólo se mostrará a lo largo del contenido. Si desea utilizar una línea divisoria en su lugar, coloque un borde en el lado derecho del div #mainContent si siempre va a incluir más contenido. </p>
         <p>Donec eu mi sed turpis feugiat feugiat. Integer turpis arcu, pellentesque  eget, cursus et, fermentum ut, sapien. Fusce metus mi, eleifend  sollicitudin, molestie id, varius et, nibh. Donec nec libero.</p>
      </div>-->
-     
-    <div id="mainContent" class="curved spanish">      
+<div class="spanish-top"></div>
+    <div id="mainContent" class="spanish">      
         <!--top-menu-secundary-->
         <br />
         
-        <div id="intro" class="curved">
+        <div id="intro" class="">
 		    <div class="img-left"><img src="images/fotos_cursos_en_espanol_left.png" alt="" /></div>
 		    <div id="content">
 				    <h3>Contact Us</h3>
@@ -112,7 +112,7 @@ if( $_SERVER['REQUEST_METHOD']=="POST" && $_POST["send"]=="ok" ){
     <!-- end #mainContent -->
     
     <!-- Este elemento de eliminación siempre debe ir inmediatamente después del div #mainContent para forzar al div #container a que contenga todos los elementos flotantes hijos --><br class="clearfloat" />
-    
+    <div class="spanish-bottom"></div>
     <div id="footer">
     <? include("includes/footer.php");?>
     </div>

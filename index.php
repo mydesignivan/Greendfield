@@ -67,8 +67,8 @@ var Slider = new Class_Slider({
         <p>El color de fondo de este div sólo se mostrará a lo largo del contenido. Si desea utilizar una línea divisoria en su lugar, coloque un borde en el lado derecho del div #mainContent si siempre va a incluir más contenido. </p>
         <p>Donec eu mi sed turpis feugiat feugiat. Integer turpis arcu, pellentesque  eget, cursus et, fermentum ut, sapien. Fusce metus mi, eleifend  sollicitudin, molestie id, varius et, nibh. Donec nec libero.</p>
      </div>-->
-     
-        <div id="mainContent" class="tourism ">      
+     <div class="tourism-top"></div>
+        <div id="mainContent" class="tourism">      
 	        <div class="top-menu-secundary ">
                 <ul>
                     <li><a href="#" onclick="Slider.slide({url: 'includes/videos.php'}, 1); return false;"><img src="images/icon_video.png" alt="" border="0" align="absmiddle" width="24" /> Videos</a></li>

@@ -1,2 +1,2 @@
 <h3>Unser umfangreiches Angebot im Überblick</h3>
-  <p>Organisation  Ihrer Anreise, Unterkünfte, Fahrradvermietung, Sprachkurse  Spanisch + Fachspanisch, Freiwilligenarbeit/Volunteering, Studienaufenthalte,  Fachpraktika, Fachtechnische und Expertenaufenthalte, Fachreisen,  Unternehmerreisen, Erlebnisreisen + Abenteuer.</p>
+  <p><img src="images/titulos/titulo1.png" alt="" border="0" />Organisation  Ihrer Anreise, Unterkünfte, Fahrradvermietung, Sprachkurse  Spanisch + Fachspanisch, Freiwilligenarbeit/Volunteering, Studienaufenthalte,  Fachpraktika, Fachtechnische und Expertenaufenthalte, Fachreisen,  Unternehmerreisen, Erlebnisreisen + Abenteuer.</p>

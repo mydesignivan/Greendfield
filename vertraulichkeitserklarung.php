@@ -33,10 +33,10 @@ var Slider = new Class_Slider({
         <p>Donec eu mi sed turpis feugiat feugiat. Integer turpis arcu, pellentesque  eget, cursus et, fermentum ut, sapien. Fusce metus mi, eleifend  sollicitudin, molestie id, varius et, nibh. Donec nec libero.</p>
      </div>-->
      
-    <div id="mainContent" class="curved tipps">      
+    <div id="mainContent" class="tipps">      
     <!--top-menu-secundary-->
 		<br />
-		<div id="intro" class="curved">
+		<div id="intro" class="">
 			<div id="content">
 				<div id="container_intro"></div>
 			</div>

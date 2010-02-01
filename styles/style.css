@@ -17,17 +17,77 @@ p{
 	.tourism{
 		background:#B3D4C3;
 	}
+        .tourism-top{
+		background: url(../images/tourism_top.png) top left no-repeat;
+                height:12px;
+                margin-bottom:-22px;
+                margin-left:19px;
+	}
+        .tourism-bottom{
+		background: url(../images/tourism_bottom.png) top left no-repeat;
+                height:12px;
+                margin-bottom:-22px;
+                margin-left:19px;
+	}
 	.spanish{
 		background:#EAE5BD;
+	}
+        .spanish-top{
+		background: url(../images/spanish_top.png) top left no-repeat;
+                height:12px;
+                margin-bottom:-22px;
+                margin-left:19px;
+	}
+        .spanish-bottom{
+		background: url(../images/spanish_bottom.png) top left no-repeat;
+                height:12px;
+                margin-bottom:-22px;
+                margin-left:19px;
 	}
 	.fachpraktika{
 		background:#F4D0BA;
 	}
+        .fachpraktika-top{
+		background: url(../images/fachpraktika_top.png) top left no-repeat;
+                height:12px;
+                margin-bottom:-22px;
+                margin-left:19px;
+	}
+        .fachpraktika-bottom{
+		background: url(../images/fachpraktika_bottom.png) top left no-repeat;
+                height:12px;
+                margin-bottom:-22px;
+                margin-left:19px;
+	}
 	.voluntariat{
 		background:#E1B5B6;
 	}
+        .voluntariat-top{
+		background: url(../images/voluntariat_top.png) top left no-repeat;
+                height:12px;
+                margin-bottom:-22px;
+                margin-left:19px;
+	}
+        .voluntariat-bottom{
+		background: url(../images/voluntariat_bottom.png) top left no-repeat;
+                height:12px;
+                margin-bottom:-22px;
+                margin-left:19px;
+	}
 	.tipps{
 		background:#B3C2D5;
+	}
+        .tipps-top{
+		background: url(../images/tipps_top.png) top left no-repeat;
+                height:12px;
+                margin-bottom:-22px;
+                margin-left:19px;
+	}
+        .tipps-bottom{
+		background: url(../images/tipps_bottom.png) top left no-repeat;
+                height:12px;
+                margin-bottom:-22px;
+                margin-left:19px;
 	}
     #container { 
     	width: 1000px;  /* el uso de 20px menos que un ancho completo de 800px da cabida a los bordes del navegador y evita la aparición de una barra de desplazamiento horizontal */
@@ -39,7 +99,7 @@ p{
 	
     #header { 
     	padding: 20px 10px 0 20px;  /* este relleno coincide con la alineación izquierda de los elementos de los divs que aparecen bajo él. Si se utiliza una imagen en el #header en lugar de texto, es posible que le interese quitar el relleno. */
-		height:350px;
+		height:360px;
     } 
     #header h1 {
     	margin: 0; /* el ajuste en cero del margen del último elemento del div de #header evita la contracción del margen (un espacio inexplicable entre divs). Si el div tiene un borde alrededor, esto no es necesario, ya que también evita la contracción del margen */
