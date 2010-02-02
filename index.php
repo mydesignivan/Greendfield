@@ -29,16 +29,43 @@ function view_movie3(){
 </script>
 <!--END SCRIPT-->
 
-<!--SCRIPT VISUALIZADOR DE FOTO-->
-<link rel="stylesheet" type="text/css" href="js/jquery.fancybox/jquery.fancybox.css" media="screen" />
-<script type="text/javascript" src="js/jquery.fancybox/jquery.easing.1.3.js"></script>
-<script type="text/javascript" src="js/jquery.fancybox/jquery.fancybox-1.2.1.pack.js"></script>
+<!--====== SCRIPT JQUERY: GalleryFix =======-->
+<link href="js/jquery.galleryfix/css/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="js/jquery.galleryfix/js/script.min.js"></script>
 <script type="text/javascript">
+<!--
+var Gallery=false;
+
 function set_images(){
-    $("a.group").fancybox();
+    Gallery = new ClassGalleryFix({
+        basename    : 'js/jquery.galleryfix',
+        selector    : '#container-photos .content-photos',
+        countByPage : 8,
+        fancybox :{
+            url   : 'js/jquery.fancybox',
+            rel   : 'group'
+        },
+        callback : function(countPage){
+            var div = $("#container-photos .pagination");
+            for( var i=1; i<=countPage; i++ ){
+                div.append('<a href="#">'+i+'</a>');
+            }
+
+            $("#container-photos .pagination a").click(function(e){
+                e.preventDefault();
+                Gallery.gopage(parseInt(this.innerHTML));
+
+                $("#container-photos .pagination a").css("color", "#51CB8C");
+                $(this).css("color", "#000");
+             });
+
+            $("#container-photos .pagination a:first").css("color", "#000");
+        }
+    });
 }
+-->
 </script>    
-<!--END SCRIPT-->
+<!--====== END SCRIPT ======-->
 
 <!--======= SCRIPT: SLIDER ========-->
 <script type="text/javascript" src="js/jquery.slider/js/jquery.slider.js"></script>

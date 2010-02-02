@@ -103,7 +103,7 @@ var Class_Slider = function(options){
 			if( pos!=null ){
 				content1.animate({
 					left : leftTo
-				}, options.slide_speed);
+				}, options.slide_speed, function(){workAnim1=false;});
 	
 				content2.css("left", widthTo).html(data);
 				setTimeout(function(){
@@ -120,11 +120,17 @@ var Class_Slider = function(options){
 						content1.css("left", left).html(cont2);
 						content2.css("left", left).hide().html(cont1);
 						working=false;
-						
-						if( typeof params.callback=="function" ) params.callback();
+						workAnim2=false;
 					});
 					
 				}, options.interval);
+
+                                temp = setInterval(function(){
+                                    if( !workAnim1 && !workAnim2 ){
+                                        clearInterval(temp);
+                                        if( typeof params.callback=="function" ) params.callback();
+                                    }
+                                }, 50);
 			}
 
 		});
@@ -140,6 +146,8 @@ var Class_Slider = function(options){
 	var working=false;
 	var index_page=1;
 	var temp=false;
+        var workAnim1 = true;
+        var workAnim2 = true;
 	
 
 	//////////////////////////////////////////////////////////////////////////////////////////////

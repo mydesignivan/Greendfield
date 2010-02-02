@@ -494,3 +494,44 @@ margin-left:-20px;
 float:left;
 margin-top:-130px;
 }
+
+/**************** GALERIA DE FOTO **************/
+#container-photos{
+    position:relative;
+    width:540px;
+    float:left;
+    margin-bottom: 100px;
+    /*border:1px solid red;*/
+}
+    #container-photos .content-photos{
+        width:540px;
+        float:left;
+        overflow: hidden;
+        /*border:1px solid blue;*/
+    }
+    #container-photos .content-photos ul{
+        margin:0;
+        padding:0;
+    }
+        #container-photos .content-photos ul li{
+            float:left;
+            list-style: none;
+            display:inline;
+            margin:2px;
+            height:130px;
+        }
+            #container-photos .content-photos ul li a{
+                display:block;
+            }
+    #container-photos .pagination{
+        float:left;
+        width:540px;
+        text-align: center;
+        margin-top: 10px;
+    }
+        #container-photos .pagination a{
+            margin-right: 5px;
+            color:#51CB8C;
+            font-size: 120%;
+        }
+/************************************************/
