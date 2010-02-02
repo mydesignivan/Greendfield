@@ -1,14 +1,9 @@
 @charset "utf-8";
 /* CSS Document */
-.spanish-top{
-		background: url(../images/spanish_top.png) top left no-repeat;
-                height:12px;
-                margin-bottom:-20px;
-                margin-left:20px;
-	}
+
 #header {
     	padding: 20px 10px 0 20px;
-	height:350px;
+	height:370px;
     }
 #header .menu-top{
 	position:relative;
@@ -26,8 +21,8 @@
 }
 #mainContent .top-menu-secundary{
 	width:300px;
-	margin-top:0px;
-	margin-bottom:25px;
+	margin-top:-10px;
+	margin-bottom:15px;
 }
 #stickies-bottom h3{
 	text-align:center;

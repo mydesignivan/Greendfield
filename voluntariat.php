@@ -37,6 +37,7 @@ var Slider = new Class_Slider({
         <div id="mainContent" class="voluntariat">      
 	        <!--top-menu-secundary-->
         <br />
+        <div class="container-top"></div>
 			<div id="intro" class="">
                 <div class="img-left"><img src="images/fotos_voluntariat_left.png" alt="" /></div>
                 <div id="content">

@@ -76,7 +76,7 @@ if( $_SERVER['REQUEST_METHOD']=="POST" && $_POST["send"]=="ok" ){
     <div id="mainContent" class="spanish">      
         <!--top-menu-secundary-->
         <br />
-        
+        <div class="container-top"></div>
         <div id="intro" class="">
 		    <div class="img-left"><img src="images/fotos_cursos_en_espanol_left.png" alt="" /></div>
 		    <div id="content">
