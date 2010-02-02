@@ -121,12 +121,12 @@ var Slider = new Class_Slider({
             	<h3><a href="angebot-im-einzelnen.php">Unser umfangreiches Angebot im Einzelnen</a></h3>
             	</div>
             </div>  
-            <!--<div class="water">
+            <div class="water">
             	<object type="application/x-shockwave-flash" data="images/lakewater.swf" width="950" height="130">
 				<param name="movie" value="images/lakewater.swf" />
 				<param name="wmode" value="transparent" />
 				</object>
-			</div>    -->
+			</div>    
 	<div class="clearfloat"></div>
   </div><!-- end #mainContent -->
       

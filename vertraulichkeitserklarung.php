@@ -32,10 +32,11 @@ var Slider = new Class_Slider({
         <p>El color de fondo de este div sólo se mostrará a lo largo del contenido. Si desea utilizar una línea divisoria en su lugar, coloque un borde en el lado derecho del div #mainContent si siempre va a incluir más contenido. </p>
         <p>Donec eu mi sed turpis feugiat feugiat. Integer turpis arcu, pellentesque  eget, cursus et, fermentum ut, sapien. Fusce metus mi, eleifend  sollicitudin, molestie id, varius et, nibh. Donec nec libero.</p>
      </div>-->
-     
+     <div class="tipps-top"></div>
     <div id="mainContent" class="tipps">      
     <!--top-menu-secundary-->
 		<br />
+                <div class="container-top"></div>
 		<div id="intro" class="">
 			<div id="content">
 				<div id="container_intro"></div>
@@ -52,6 +53,7 @@ var Slider = new Class_Slider({
 		<div class="clearfloat"></div>
         
 	</div>
+     <div class="tipps-bottom"></div>
     <!-- end #mainContent -->
       
 	<br class="clearfloat" />
