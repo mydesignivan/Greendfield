@@ -76,14 +76,21 @@ var Slider = new Class_Slider({
               </ul>        
      		</div>
             <!--end top-menu-secundary-->
-        
+        <div class="container-top"></div>
             <div id="intro" class="">
+                
                 <div class="img-left"><img src="images/foto_intro_left.png" alt="" /></div>
+                
                 <div id="content">
+                    
                     <div id="container_intro"></div>
                 </div>
+                
+                 
               <!--<div class="intro-more curved">+info</div>-->
             </div>
+       <div class="container-bottom"></div>
+            <br />
             <!--end intro-->
         
             <div id="videos">
@@ -114,12 +121,12 @@ var Slider = new Class_Slider({
             	<h3><a href="angebot-im-einzelnen.php">Unser umfangreiches Angebot im Einzelnen</a></h3>
             	</div>
             </div>  
-            <div class="water">
+            <!--<div class="water">
             	<object type="application/x-shockwave-flash" data="images/lakewater.swf" width="950" height="130">
 				<param name="movie" value="images/lakewater.swf" />
 				<param name="wmode" value="transparent" />
 				</object>
-			</div>          			
+			</div>    -->
 	<div class="clearfloat"></div>
   </div><!-- end #mainContent -->
       

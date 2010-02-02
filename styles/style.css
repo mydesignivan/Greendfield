@@ -13,7 +13,19 @@ p{
     	text-align: center; /* esto centra el contenedor en los navegadores IE 5*. El texto se ajusta posteriormente con el valor predeterminado de alineación a la izquierda en el selector #container */
     	color: #000000;
     }
-	
+	.container-top{
+		background: url(../images/container_top.png) top left no-repeat;
+                height:12px;
+                margin-bottom:-2px;
+                margin-left:-1px;
+	}
+        .container-bottom{
+		background: url(../images/container_bottom.png) top left no-repeat;
+                height:12px;
+                float:left;
+                margin-top:2px;
+                margin-left:0px;
+	}
 	.tourism{
 		background:#B3D4C3;
 	}
