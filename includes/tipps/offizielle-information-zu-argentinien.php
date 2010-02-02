@@ -3,7 +3,8 @@
 Botschaft der Republik Argentinien in Berlin <br>
 Kleiststraße  23-26, 4.Stock – 10787 Berlin<br>
 Tel. 030/226689-0 ▪ Fax 030/2291400<br>
-E-Mail: <a href="mailto:info@argentinische-botschaft.de">info@argentinische-botschaft.de</a> ▪ Internet: <a href="http://www.argentinische-botschaft.de" target="_blank">www.argentinische-botschaft.de</a></p>
+E-Mail: <a href="mailto:info@argentinische-botschaft.de">info@argentinische-botschaft.de</a><br />
+Internet: <a href="http://www.argentinische-botschaft.de" target="_blank">www.argentinische-botschaft.de</a></p>
 <p>Konsularabteilung<br>
   Die Adressen  der Konsularabteilungen in Berlin, Frankfurt am Main, Hamburg und Bonn findet  ihr hier: <a href="http://www.argentinische-botschaft.de/consulado.htm" target="_blank">www.argentinische-botschaft.de/consulado.htm</a> </p>
 <p>Pass/Visa-Informationen <br>
@@ -15,6 +16,7 @@ E-Mail: <a href="mailto:info@argentinische-botschaft.de">info@argentinische-bots
 Deutsche Botschaft in Buenos  Aires<br>
 Villanueva 1055, C1426BMC – Buenos Aires<br>
 Tel. 0054 11/47782500<br>
-E-Mail: <a href="mailto:administracion@embajada-alemana.org.ar">administracion@embajada-alemana.org.ar</a> ▪  Internet: <a href="http://www.buenos-aires.diplo.de" target="_blank">www.buenos-aires.diplo.de</a>
+E-Mail: <a href="mailto:administracion@embajada-alemana.org.ar">administracion@embajada-alemana.org.ar</a><br />
+Internet: <a href="http://www.buenos-aires.diplo.de" target="_blank">www.buenos-aires.diplo.de</a>
 
 <div class="backPage"><a href="#" onclick="Slider.slide({url: 'includes/tipps-fur-sie.php'}, 1); return false;"><img src="images/button_back.png" alt="Volver" title="Volver" border="0" align="absmiddle" />&nbsp;Volver</a></div>

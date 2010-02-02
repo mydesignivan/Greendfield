@@ -7,7 +7,7 @@
 </div>
 <div class="menu-top">
     <ul>
-        <li><a href="#"><img src="images/sitemap.png" alt="Sitemap" border="0" /></a></li>
+        <li><a href="index.php"><img src="images/home.png" alt="Home" border="0" /></a></li>
         <li><a href="#"><img src="images/faq.png" alt="FAQ" border="0" /></a></li>
         <li><a href="contact-us.php"><img src="images/contact-us.png" alt="Contact Us" border="0" /></a></li>
     </ul>
