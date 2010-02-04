@@ -8,14 +8,15 @@
  */
 chdir("../../../");
 $images = array();
-$dir = "images/gallery";
+$dir = "images/gallery/thumbs";
+$dir2 = "images/gallery";
 $d=opendir($dir);
 
 while( $file = readdir($d) ){
     if( $file!="." AND $file!=".." ){
         if( is_file($dir.'/'.$file) ){
             $images[] = array(
-                "src" => $dir.'/'.$file,
+                "src" => $dir2.'/'.$file,
                 "src_thumb" => $dir.'/'.$file,
                 "alt"       => ""
             );
