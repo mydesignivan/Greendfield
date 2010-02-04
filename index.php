@@ -104,6 +104,7 @@ var Slider = new Class_Slider({
      		</div>
             <!--end top-menu-secundary-->
         <div class="container-top"></div>
+         
             <div id="intro" class="">
                 
                 <div class="img-left"><img src="images/foto_intro_left.png" alt="" /></div>
@@ -113,10 +114,11 @@ var Slider = new Class_Slider({
                     <div id="container_intro"></div>
                 </div>
                 
-                 
+                 <div class="container-bottom"> </div>
               <!--<div class="intro-more curved">+info</div>-->
             </div>
-       <div class="container-bottom"></div>
+            
+       
             <br />
             <!--end intro-->
         

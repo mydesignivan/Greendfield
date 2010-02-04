@@ -316,7 +316,7 @@ p{
 	}
 	#stickies-bottom .stickies-verde{
 		float:left;
-		background:url(../images/rec_verde2.png) top left no-repeat;
+		background:url(../images/stickies-verde.png) top left no-repeat;
 		position:relative;
 		width:225px;
 		height:120px;
@@ -325,7 +325,7 @@ p{
 	}
 	#stickies-bottom .stickies-naranja{
 		float:left;
-		background:url(../images/rec_naranja2.png) top left no-repeat;
+		background:url(../images/stickies-naranja.png) top left no-repeat;
 		position:relative;
 		width:225px;
 		height:120px;
@@ -334,7 +334,7 @@ p{
 	}
 	#stickies-bottom .stickies-rosa{
 		float:left;
-		background:url(../images/rec_rosa2.png) top left no-repeat;
+		background:url(../images/stickies-rosa.png) top left no-repeat;
 		position:relative;
 		width:225px;
 		height:120px;
@@ -343,7 +343,7 @@ p{
 	}
 	#stickies-bottom .stickies-azul{
 		float:left;
-		background:url(../images/rec_azul2.png) top left no-repeat;
+		background:url(../images/stickies-azul.png) top left no-repeat;
 		position:relative;
 		width:225px;
 		height:120px;
@@ -365,7 +365,7 @@ p{
 	}
 	#stickies-right .stickies-verde{
 		float:left;
-		background:url(../images/rec_verde2.png) top left no-repeat;
+		background:url(../images/stickies-verde.png) top left no-repeat;
 		position:relative;
 		width:225px;
 		height:100px;
@@ -375,7 +375,7 @@ p{
 	}
 	#stickies-right .stickies-naranja{
 		float:left;
-		background:url(../images/rec_naranja2.png) top left no-repeat;
+		background:url(../images/stickies-naranja.png) top left no-repeat;
 		position:relative;
 		width:225px;
 		height:100px;
@@ -385,7 +385,7 @@ p{
 	}
 	#stickies-right .stickies-rosa{
 		float:left;
-		background:url(../images/rec_rosa2.png) top left no-repeat;
+		background:url(../images/stickies-rosa.png) top left no-repeat;
 		position:relative;
 		width:225px;
 		height:100px;
@@ -395,7 +395,7 @@ p{
 	}
 	#stickies-right .stickies-azul{
 		float:left;
-		background:url(../images/rec_azul2.png) top left no-repeat;
+		background:url(../images/stickies-azul.png) top left no-repeat;
 		position:relative;
 		width:225px;
 		height:110px;
