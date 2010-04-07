@@ -1,7 +1,7 @@
 <title>Green Fields</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="description" content="" />
-<meta name="keywords" content="" />
+<meta name="description" content="Freiwilligenarbeit mit hohem Sozialanspruch, Sprachkurse und –reisen mit intensivem Kontakt zur Bevölkerung sowie Berufspraktikas und Unternehmerreisen mit einem exzellenten Angebot an Kultur und Tourismus in Mendoza und Argentinien bietet das Kultur- und Sprachinstitut Green Fields." />
+<meta name="keywords" content="Freiwilligenarbeit, Sprachkurs Spanisch, Sprachintensivkurs Spanisch, Voluntariat, Berufspraktika, Fachpraktika, Home-Stay, Familienunterkunft, Sprachreisen, Fachspanisch, Unternehmerreisen, Toursimus, Erlebnisreisen, Abenteuertourismus, Argentinien, Mendoza, preiswert, kostengünstig" />
 
 <link rel="stylesheet" href="styles/style.css" type="text/css" />
 <script type="text/JavaScript" src="js/curvycorners.js"></script> 
