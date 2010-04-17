@@ -4,4 +4,6 @@
 - Legen Sie einen tab. Lebenslauf digital mit einem gescanntem und aktuellem Lichtbild  bei.<br />
 - Schicken Sie diese Unterlagen unverbindlich zu uns.</p>
 
+<a href="images/Anmeldeformular-Freiwilligenarbeit.pdf">Anmeldeformular Freiwilligenarbeit</a>
+
 <div class="backPage"><a href="#" onclick="Slider.slide({url: 'includes/<?php echo $_GET["returnpage"];?>'}, 1); return false;"><img src="images/button_back.png" alt="Volver" title="Volver" border="0" align="absmiddle" />&nbsp;Volver</a></div>
