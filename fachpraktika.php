@@ -21,6 +21,25 @@ var Slider = new Class_Slider({
 <!--======== END SCRIPT SLIDER =========-->
 </head>
 
+<!--======= SCRIPT: POPUP (SIMPLEMODAL) ========-->
+<!--[if IE 6]>
+<link rel="stylesheet" media="all" type="text/css" href="js/jquery.simplemodal/basic_ie.css" />
+<![endif]-->
+<link rel="stylesheet" media="all" type="text/css" href="js/jquery.simplemodal/basic.css" />
+<script type="text/javascript" src="js/jquery.simplemodal/jquery.simplemodal-1.3.5.min.js"></script>
+<script type="text/javascript">
+<!--
+function open_popup(filename){
+    var url = 'store/'+filename;
+    $.get(url, '', function(data){
+        $("#popup").html(data).modal({
+            overlayClose : true
+        });
+    });
+}
+-->
+</script>
+<!--======= END SCRIPT ========-->
 <body>
 
 <div id="container">
@@ -63,5 +82,6 @@ var Slider = new Class_Slider({
       
 </div><!-- end #container -->
 
+<div id="popup"></div>
 </body>
 </html>

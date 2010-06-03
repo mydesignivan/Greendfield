@@ -4,11 +4,7 @@
 
 <li><a href="Bewerbungsablauf-Praktikas-und-Voluntariat.pdf"><img src="images/iconos/procedimiento_de_inscripcion_formularios.png" alt="" border="0" /> Bewerbungsablauf Praktikas und Voluntariat</a></li>
 
-<li><a href="#" onclick="Slider.slide({url: 'includes/secciones/anmeldeverfahren-formulare-fur-antrage-und-anmeldungen.php?returnpage=voluntariat.php'}, 4); return false;"><img src="images/iconos/procedimiento_de_inscripcion_formularios.png" alt="" border="0" /> Anmeldeverfahren - Formulare f&uuml;r Antr&auml;ge und Anmeldungen</a></li>
-
-<li><a href="#" onclick="Slider.slide({url: 'includes/secciones/online-anmeldungen.php?returnpage=voluntariat.php'}, 5); return false;"><img src="images/iconos/inscripcion_online.png" alt="" border="0" /> Online Anmeldungen</a></li>
-
-<li><a href="#" onclick="Slider.slide({url: 'includes/secciones/download-des-anmeldeformulares_1.php?returnpage=voluntariat.php'}, 6); return false;"><img src="images/iconos/download_formularios.png" alt="" border="0" /> Download des Anmeldeformulares</a></li>
+<li><a href="#" onclick="Slider.slide({url: 'includes/secciones/download-des-anmeldeformulares_1.php?returnpage=voluntariat.php'}, 6); return false;"><img src="images/iconos/download_formularios.png" alt="" border="0" /> Anmeldeformulare</a></li>
 
 <li><a href="#" onclick="Slider.slide({url: 'includes/secciones/teilnahmebedingungen.php?returnpage=voluntariat.php'}, 7); return false;"><img src="images/iconos/condiciones_participar.png" alt="" border="0" /> Teilnahmebedingungen</a></li>
 
@@ -18,7 +14,7 @@
 
 <li><a href="#" onclick="Slider.slide({url: 'includes/secciones/ihre-unterkunft.php?returnpage=voluntariat.php'}, 10); return false;"><img src="images/iconos/su_hospedaje.png" alt="" border="0" /> Ihre Unterkunft</a></li>
 
-<li><a href="#" onclick="Slider.slide({url: 'includes/secciones/wie-geht-es-weiter.php?returnpage=voluntariat.php'}, 11); return false;"><img src="images/iconos/como_seguir.png" alt="" border="0" /> Wie geht es weiter?</a></li>
+<li><a href="#" onclick="Slider.slide({url: 'includes/secciones/wie-geht-es-weiter.php?returnpage=voluntariat.php&filename=Preisliste_2010_Green_Fields3.html'}, 11); return false;"><img src="images/iconos/como_seguir.png" alt="" border="0" /> Wie geht es weiter?</a></li>
 
 <li><a href="#" onclick="Slider.slide({url: 'includes/secciones/nicht-im-preis-enthalten.php?returnpage=voluntariat.php'}, 12); return false;"><img src="images/iconos/lo_que_no_esta_dentro_del_precio.png" alt="" border="0" /> Nicht im Preis enthalten</a></li>
 

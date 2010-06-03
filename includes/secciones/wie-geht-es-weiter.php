@@ -3,4 +3,6 @@
 GREEN FIELDS erstellt auf Basis Ihrer Anmeldung ein konkretes Teilnahmeangebot  gem&auml;&szlig; Ihrer Vorgaben. Dabei werden der Zeitraum, der Sprachunterricht, die  Unterkunft und sonstige Leistungen sowie die in Frage kommenden Praktikumsbereiche  festgelegt. </p>
 <p>Erst nachdem Sie dieses  Teilnahmeangebot unterschrieben zur&uuml;cksenden (Fax oder digital), wird Ihre  Programmteilnahme verbindlich und die Vorbereitungen f&uuml;r Ihren  Auslandsaufenthalt k&ouml;nnen beginnen. Die jeweilige Ortsrepr&auml;sentanz beginnt mit  der Praktikumsstellenorganisation bzw. den Vorbereitungen f&uuml;r Ihren Aufenthalt.  Sobald die Praktikumsstelle feststeht, erhalten Sie eine Kurzbeschreibung &uuml;ber  Art und Inhalt der Praktikumsstelle. Mindestens zwei Wochen vor Ihrem Abflug  &uuml;berweisen Sie den Betrag gem&auml;ss Auswahl Ihres Programms.</p>
 
+<a href="javascript:void(open_popup('<?=$_GET['filename'];?>'))">Preisliste 2010 Green Fields</a>
+
 <div class="backPage"><a href="#" onclick="Slider.slide({url: 'includes/<?php echo $_GET["returnpage"];?>'}, 1); return false;"><img src="images/button_back.png" alt="Volver" title="Volver" border="0" align="absmiddle" />&nbsp;Volver</a></div>
