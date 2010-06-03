@@ -12,6 +12,6 @@ Die Einzigen, die Zugang zu diesen Informationen haben sind die Mitarbeiter des 
 Leider kann es für keine Datenübertragung über das Internet eine 100%  Sicherheit geben. Daher versuchen wir Ihre persönlichen Daten so gut wie  möglich zu schützen, wir können Ihnen jedoch keine Garantie über die Sicherheit  der Informationen geben, die Sie an uns übertragen und Sie tun dies demnach auf  eigenes Risiko. Nachdem wir Ihre Daten erhalten haben, versuchen wir die  Vertraulichkeit unserer Systeme bestens zu schützen. Wir benutzen die  verfügbare Technologie um die Privatsphäre unserer Kunden in einem Höchstmaß zu  schützen. <br />
 <br />
 <strong>Ihre Annahme dieser Bestimmungen </strong></p>
-<strong>Durch Ihre Benutzung dieser Seite erklären Sie sich mit unserer  Vertraulichkeitspolitik einverstanden.</strong>
+<p><strong>Durch Ihre Benutzung dieser Seite erklären Sie sich mit unserer  Vertraulichkeitspolitik einverstanden.</strong></p>
 
 <div class="backPage"><a href="#" onclick="Slider.slide({url: 'includes/<?php echo $_GET["returnpage"];?>'}, 1); return false;"><img src="images/button_back.png" alt="Volver" title="Volver" border="0" align="absmiddle" />&nbsp;Volver</a></div>

@@ -2,7 +2,7 @@
 <ul>
 <li><a href="#" onclick="Slider.slide({url: 'includes/secciones/wer-kann-an-unserem-programm-teilnehmen.php?returnpage=sprachkurse.php'}, 2); return false;"><img src="images/iconos/quien_puede_participar.png" alt="" border="0" /> Wer kann an unserem Programm teilnehmen</a></li>
 
-<li><a href="#" onclick="Slider.slide({url: 'includes/secciones/anmeldeverfahren-formulare-fur-antrage-und-anmeldungen.php?returnpage=sprachkurse.php'}, 3); return false;"><img src="images/iconos/procedimiento_de_inscripcion_formularios.png" alt="" border="0" /> Anmeldeverfahren - Formulare f&uuml;r Antr&auml;ge und Anmeldungen</a></li>
+<li><a href="Bewerbungsablauf-Praktikas-und-Voluntariat.pdf"><img src="images/iconos/procedimiento_de_inscripcion_formularios.png" alt="" border="0" /> Bewerbungsablauf Praktikas und Voluntariat</a></li>
 
 <li><a href="#" onclick="Slider.slide({url: 'includes/secciones/online-anmeldungen.php?returnpage=sprachkurse.php'}, 4); return false;"><img src="images/iconos/inscripcion_online.png" alt="" border="0" /> Online Anmeldungen</a></li>
 

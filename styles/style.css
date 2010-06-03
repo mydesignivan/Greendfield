@@ -130,7 +130,7 @@ p{
 	color:#104365;
 	font-style:italic;
 	margin-left:30px;
-	margin-top:40px;
+	margin-top:45px;
 	}
 	#header .menu-top{
 	position:relative;
@@ -185,7 +185,7 @@ p{
 		margin-top:20px;
     } 
 	#mainContent .top-menu-secundary{
-	width:300px;
+	width:320px;
 	margin-left:0px;
 	}
 	#mainContent .top-menu-secundary li{
@@ -197,7 +197,7 @@ p{
 	}
 	#mainContent .top-menu-secundary a{
 	text-decoration:none;
-	font-size:16px;
+	font-size:110%;
 	font-weight:bold;
 	color:#000000;
 	}
@@ -252,7 +252,11 @@ p{
 			}
 			#intro #content #container_intro li{
 				list-style-type:none;
-			}		
+			}
+                        #intro #content #container_intro h3{
+				width:450px;
+				height:auto;
+			}
 		
 	#videos{
 	width:200px;
@@ -345,7 +349,7 @@ p{
 		float:left;
 		background:url(../images/stickies-azul.png) top left no-repeat;
 		position:relative;
-		width:225px;
+		width:220px;
 		height:120px;
 		padding:10px 10px 0 10px;
 		margin-left:-15px;

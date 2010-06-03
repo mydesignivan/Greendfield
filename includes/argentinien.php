@@ -13,7 +13,7 @@
 <li><a href="#" onclick="Slider.slide({url: 'includes/strassenkarte.php', callback: set_images}, 13); return false;"><img src="images/iconos/mapa_vial.png" alt="" border="0" /> Strassenkarte</a></li>
 <li><a href="#" onclick="Slider.slide({url: 'includes/die-provinz.php'}, 14); return false;"><img src="images/iconos/provincia.png" alt="" border="0" /> Die Provinz</a></li>
 <li><a href="#" onclick="Slider.slide({url: 'includes/der-weinbau.php'}, 15); return false;"><img src="images/iconos/vinicultura1.png" alt="" border="0" /> Der Weinbau</a></li>
-<li><a href="#" onclick="Slider.slide({url: 'includes/kultur-und-veranstaltungskalender.php'}, 16); return false;"><img src="images/iconos/agenda_cultural2.png" alt="" border="0" /> Kultur- und Veranstaltungskalender</a></li>
+<li><a href="http://cultura.mendoza.gov.ar/cultura/"><img src="images/iconos/agenda_cultural2.png" alt="" border="0" /> Kultur- und Veranstaltungskalender</a></li>
 <li><a href="#" onclick="Slider.slide({url: 'includes/die-stadt.php'}, 17); return false;"><img src="images/iconos/ciudad.png" alt="" border="0" /> Die Stadt</a></li>
 <li><a href="#" onclick="Slider.slide({url: 'includes/stadtplan-von-mendoza-und-umgebung.php'}, 18); return false;"><img src="images/iconos/mapa_ciudad.png" alt="" border="0" /> Stadtplan von Mendoza und Umgebung</a></li>
 </ul>

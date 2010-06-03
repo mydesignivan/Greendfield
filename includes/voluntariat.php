@@ -2,13 +2,13 @@
 <ul>
 <li><a href="#" onclick="Slider.slide({url: 'includes/secciones/wer-kann-an-unserem-programm-teilnehmen.php?returnpage=voluntariat.php'}, 2); return false;"><img src="images/iconos/quien_puede_participar.png" alt="" border="0" /> Wer kann an unserem Programm teilnehmen</a></li>
 
-<li><a href="#" onclick="Slider.slide({url: 'includes/secciones/freiwilligenarbeit-freiwilligeneinsatze-volunteering.php?returnpage=voluntariat.php'}, 3); return false;"><img src="images/iconos/trabajo_voluntario.png" alt="" border="0" /> Freiwilligenarbeit - Freiwilligeneins&auml;tze - Volunteering</a></li>
+<li><a href="Bewerbungsablauf-Praktikas-und-Voluntariat.pdf"><img src="images/iconos/procedimiento_de_inscripcion_formularios.png" alt="" border="0" /> Bewerbungsablauf Praktikas und Voluntariat</a></li>
 
 <li><a href="#" onclick="Slider.slide({url: 'includes/secciones/anmeldeverfahren-formulare-fur-antrage-und-anmeldungen.php?returnpage=voluntariat.php'}, 4); return false;"><img src="images/iconos/procedimiento_de_inscripcion_formularios.png" alt="" border="0" /> Anmeldeverfahren - Formulare f&uuml;r Antr&auml;ge und Anmeldungen</a></li>
 
 <li><a href="#" onclick="Slider.slide({url: 'includes/secciones/online-anmeldungen.php?returnpage=voluntariat.php'}, 5); return false;"><img src="images/iconos/inscripcion_online.png" alt="" border="0" /> Online Anmeldungen</a></li>
 
-<li><a href="#" onclick="Slider.slide({url: 'includes/secciones/download-des-anmeldeformulares.php?returnpage=voluntariat.php'}, 6); return false;"><img src="images/iconos/download_formularios.png" alt="" border="0" /> Download des Anmeldeformulares</a></li>
+<li><a href="#" onclick="Slider.slide({url: 'includes/secciones/download-des-anmeldeformulares_1.php?returnpage=voluntariat.php'}, 6); return false;"><img src="images/iconos/download_formularios.png" alt="" border="0" /> Download des Anmeldeformulares</a></li>
 
 <li><a href="#" onclick="Slider.slide({url: 'includes/secciones/teilnahmebedingungen.php?returnpage=voluntariat.php'}, 7); return false;"><img src="images/iconos/condiciones_participar.png" alt="" border="0" /> Teilnahmebedingungen</a></li>
 

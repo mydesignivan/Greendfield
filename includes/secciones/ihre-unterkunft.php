@@ -11,7 +11,7 @@ Auf ausdr&uuml;cklichem Wunsch stellen  wir aber auch Unterkunft ohne Familienan
   Unterkunft  in einem Apartment mit Bad, K&uuml;che, TV (Reinigung &uuml;berehmen Sie); Sie sind  Eigenversorger.</p>
 <p>Kategorie  5:<br />
   Unterkunft  in einem Apartment mit Bad, K&uuml;che, TV (Reinigung &uuml;bernimmt Vermieter); Sie sind  Eigenversorger.</p>
-<p>Kategorie  6:</p>
-Unterkunft in einem Hotel mit  Bad, TV, Zimmerservice und Fr&uuml;hst&uuml;ck.
+<p>Kategorie  6:<br />
+Unterkunft in einem Hotel mit  Bad, TV, Zimmerservice und Fr&uuml;hst&uuml;ck.</p>
 
 <div class="backPage"><a href="#" onclick="Slider.slide({url: 'includes/<?php echo $_GET["returnpage"];?>'}, 1); return false;"><img src="images/button_back.png" alt="Volver" title="Volver" border="0" align="absmiddle" />&nbsp;Volver</a></div>
