@@ -539,3 +539,7 @@ margin-top:-130px;
             font-size: 120%;
         }
 /************************************************/
+
+.list-style1 li{
+    list-style-type:disc !important;
+}

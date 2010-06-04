@@ -31,7 +31,7 @@ var Slider = new Class_Slider({
 function open_popup(filename){
     var url = 'store/'+filename;
     $.get(url, '', function(data){
-        $("#popup").html(data).modal({
+        $("#popup").hide().html(data).modal({
             overlayClose : true
         });
     });
