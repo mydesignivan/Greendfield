@@ -147,6 +147,10 @@ p{
 	list-style:none;
 	display:inline;
 	}
+        #header .menu-top .tagHome{
+            position: relative;
+            top:-2px;
+        }
 	#header .flash-top{
 		margin-left:-33px;
 		float:left;

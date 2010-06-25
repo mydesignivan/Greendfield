@@ -14,19 +14,15 @@
 
     <li><a href="#" onclick="Slider.slide({url: 'includes/secciones/erlebnisreisen-abenteuer.php?returnpage=angebot-im-einzelnen.php'}, 8); return false;"><img src="images/iconos/viajes_como_experiencia_aventura.png" alt="" border="0" /> Erlebnisreisen + Abenteuer</a></li>
 
-    <li><a href="#" onclick="Slider.slide({url: 'includes/secciones/ein-und-mehrtagestouren-in-mendoza-und-umgebung.php?returnpage=angebot-im-einzelnen.php'}, 9); return false;"><img src="images/iconos/escapadas_de_uno_varios_dias_en_Mendoza.png" alt="" border="0" /> Ein - und Mehrtagestouren in Mendoza und Umgebung</a></li>
-
     <li><a href="#" onclick="Slider.slide({url: 'includes/secciones/fahrradvermietung.php?returnpage=angebot-im-einzelnen.php'}, 10); return false;"><img src="images/iconos/alquiler_bicicleta.png" alt="" border="0" /> Fahrradvermietung</a></li>
 
     <li><a href="#" onclick="Slider.slide({url: 'includes/secciones/unternehmerreisen-und-geschaftsmoglichkeiten.php?returnpage=angebot-im-einzelnen.php'}, 11); return false;"><img src="images/iconos/viajes_empresarios_posibilidades_negocio.png" alt="" border="0" /> Unternehmerreisen und Geschäftsm&ouml;glichkeiten</a></li>
 
     <li><a href="#" onclick="Slider.slide({url: 'includes/secciones/einstufungstest-zu-ihren-spanischkenntnissen.php?returnpage=angebot-im-einzelnen.php'}, 12); return false;"><img src="images/iconos/test_categorizacion_de_su_conocimiento_en_espanol.png" alt="" border="0" /> Einstufungstest zu Ihren Spanischkenntnissen</a></li>
 
-    <li><a href="#" onclick="Slider.slide({url: 'includes/secciones/liste-der-spanischkurse-und-kosten.php?returnpage=angebot-im-einzelnen.php'}, 13); return false;"><img src="images/iconos/lista_cursos_espanol_costos.png" alt="" border="0" /> Liste der Spanischkurse und Kosten</a></li>
+    <li><a href="javascript:void(open_popup('Preisliste_2010_Green_Fields5.html'))"><img src="images/iconos/lista_cursos_espanol_costos.png" alt="" border="0" /> Liste der Spanischkurse und Kosten</a></li>
 
-    <li><a href="#" onclick="Slider.slide({url: 'includes/secciones/liste-der-freilwilligentatigkeiten-und-kosten.php?returnpage=angebot-im-einzelnen.php'}, 14); return false;"><img src="images/iconos/lista_voluntarios_costos.png" alt="" border="0" /> Liste der Freilwilligent&auml;tigkeiten und Kosten</a></li>
+    <li><a href="#" onclick="Slider.slide({url: 'includes/secciones/liste-der-freilwilligentatigkeiten-und-kosten.php?returnpage=angebot-im-einzelnen.php'}, 14); return false;"><img src="images/iconos/lista_voluntarios_costos.png" alt="" border="0" /> Liste der Freilwilligent&auml;tigkeiten, Praktika und Kosten</a></li>
 
-    <li><a href="#" onclick="Slider.slide({url: 'includes/secciones/liste-der-praktika-und-kosten.php?returnpage=angebot-im-einzelnen.php'}, 15); return false;"><img src="images/iconos/lista_pasantias_costos.png" alt="" border="0" /> Liste der Praktika und Kosten</a></li>
-
-    <li><a href="#" onclick="Slider.slide({url: 'includes/secciones/liste-der-unterkunfte-und-kosten.php?returnpage=angebot-im-einzelnen.php'}, 16); return false;"><img src="images/iconos/lista_hospedajes_costos.png" alt="" border="0" /> Liste der Unterk&uuml;nfte und Kosten</a></li>
+    <li><a href="javascript:void(open_popup('Preisliste_2010_Green_Fields4.html'))"><img src="images/iconos/lista_hospedajes_costos.png" alt="" border="0" /> Liste der Unterk&uuml;nfte und Kosten</a></li>
 </ul>

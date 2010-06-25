@@ -1,4 +1,5 @@
 <h3>Freiwilligenarbeit - Freiwilligeneins&auml;tze - Volunteering</h3>
+
 <p>Sie  wollen einfach etwas Sinnvolles tun? In den folgenden Projekten und  Institutionen können Sie sich persönlich über Freiwilligenarbeit einbringen.  Sie lernen Ihre eigenen sozialen Neigungen durch Ihr Engagement kennen und  ernten wertvolle Erfahrungen zu zwischenmenschlichen und naturbezogenen  Problemstellungen in Lateinamerika. Wir organisieren dies vor Ort für Sie.<br>
 Ihr Einsatz ist in der Regel in Projekten im Bereich Umweltschutz, Tierschutz,  Naturreservate, Sozialarbeit, Kinder- und Jugendarbeit, NGOs, Kranken- und  Heilberufe usw. angesiedelt. Wegen der Distanz zum Ort oder der Einrichtung für  Ihre Freiwilligenarbeit ist es bisweilen ratsam bzw. notwendig, dass auch Ihre  Unterkunft direkt mit dieser Institution in Verbindung steht oder sich in  unmittelbarer Nähe befindet.</p>
 <p>Ihr  Einsatz 1: Bosque Telteca</p>
