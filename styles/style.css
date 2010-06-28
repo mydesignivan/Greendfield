@@ -5,6 +5,11 @@ p{
 	text-align:justify;
 }
 
+.left{float: left !important;}
+.right{float: right !important;}
+
+.span-5{width: 130px;}
+
  body  {
     	font-family: "Trebuchet MS";
 		font-size:14px;

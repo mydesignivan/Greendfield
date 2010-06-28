@@ -10,7 +10,7 @@
 
     <li><a href="#" onclick="Slider.slide({url: 'includes/secciones/freizeit.php?returnpage=angebot-im-einzelnen.php'}, 6); return false;"><img src="images/iconos/tiempo_libre.png" alt="" border="0" /> Freizeit</a></li>
 
-    <li><a href="#" onclick="Slider.slide({url: 'includes/secciones/kultur-und-veranstaltungskalender.php?returnpage=angebot-im-einzelnen.php'}, 7); return false;"><img src="images/iconos/agenda_cultural1.png" alt="" border="0" /> Kultur - und Veranstaltungskalender</a></li>
+    <li><a href="http://cultura.mendoza.gov.ar/cultura/" target="_blank"><img src="images/iconos/agenda_cultural1.png" alt="" border="0" /> Kultur - und Veranstaltungskalender</a></li>
 
     <li><a href="#" onclick="Slider.slide({url: 'includes/secciones/erlebnisreisen-abenteuer.php?returnpage=angebot-im-einzelnen.php'}, 8); return false;"><img src="images/iconos/viajes_como_experiencia_aventura.png" alt="" border="0" /> Erlebnisreisen + Abenteuer</a></li>
 
@@ -22,7 +22,7 @@
 
     <li><a href="javascript:void(open_popup('Preisliste_2010_Green_Fields5.html'))"><img src="images/iconos/lista_cursos_espanol_costos.png" alt="" border="0" /> Liste der Spanischkurse und Kosten</a></li>
 
-    <li><a href="#" onclick="Slider.slide({url: 'includes/secciones/liste-der-freilwilligentatigkeiten-und-kosten.php?returnpage=angebot-im-einzelnen.php'}, 14); return false;"><img src="images/iconos/lista_voluntarios_costos.png" alt="" border="0" /> Liste der Freilwilligent&auml;tigkeiten, Praktika und Kosten</a></li>
+    <li><a href="javascript:void(open_popup('lista_de_voluntariado_y_pasantia.html'))"><img src="images/iconos/lista_voluntarios_costos.png" alt="" border="0" /> Liste der Freilwilligentätigkeiten</a></li>
 
     <li><a href="javascript:void(open_popup('Preisliste_2010_Green_Fields4.html'))"><img src="images/iconos/lista_hospedajes_costos.png" alt="" border="0" /> Liste der Unterk&uuml;nfte und Kosten</a></li>
 </ul>

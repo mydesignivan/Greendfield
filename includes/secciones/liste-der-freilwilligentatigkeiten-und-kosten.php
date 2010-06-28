@@ -1,4 +1,4 @@
-<h3>Liste der Freilwilligent&auml;tigkeiten und Kosten</h3>
+<h3>Liste der Freilwilligentätigkeiten</h3>
 <p></p>
 
 <div class="backPage"><a href="#" onclick="Slider.slide({url: 'includes/<?php echo $_GET["returnpage"];?>'}, 1); return false;"><img src="images/button_back.png" alt="Volver" title="Volver" border="0" align="absmiddle" />&nbsp;Volver</a></div>

@@ -8,4 +8,6 @@
 
 <p>Sie müssen sich somit auf das von Ihnen gewünschte Praktikum bewerben. Nach erfolgter Zusage übersenden wir Ihnen noch vor Ihrer Anreise das Abkommensdokument zum gewählten Praktikum, indem Sie Ihre Teilnahme bestätigen und die Bedingungen gegenüber der Praktikumsinstitution akzeptieren. </p>
 
+<p><a href="javascript:void(open_popup('lista_de_voluntariado_y_pasantia.html'))"><img src="images/iconos/lista_cursos_espanol_costos.png" alt="" border="0" /> Liste für Praktikas und Freiwilligenarbeit</a></p>
+
 <div class="backPage"><a href="#" onclick="Slider.slide({url: 'includes/<?php echo $_GET["returnpage"];?>'}, 1); return false;"><img src="images/button_back.png" alt="Volver" title="Volver" border="0" align="absmiddle" />&nbsp;Volver</a></div>

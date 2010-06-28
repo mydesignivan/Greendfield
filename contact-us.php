@@ -80,7 +80,35 @@ if( $_SERVER['REQUEST_METHOD']=="POST" && $_POST["send"]=="ok" ){
         <div id="intro" class="">
 		    <div class="img-left"><img src="images/fotos_cursos_en_espanol_left.png" alt="" /></div>
 		    <div id="content">
-				    <h3>Contact Us</h3>
+                        <h3>Contact Us</h3>
+
+                        <div class="left span-5"><b>Adresse</b></div>
+                        <div class="left">
+                            Calle Santiago del Estero 1616<br />
+                            5501 Godoy Cruz – Mendoza - Argentina
+                        </div>
+                        <div class="clear" style="margin-bottom: 10px;"></div>
+
+                        <div class="left span-5"><b>Telefon</b></div>
+                        <div class="left">0054 261 4272745</div>
+                        <div class="clear" style="margin-bottom: 10px;"></div>
+
+                        <div class="left span-5"><b>Fax + Telefon</b></div>
+                        <div class="left">0054 261 4272759</div>
+                        <div class="clear" style="margin-bottom: 10px;"></div>
+
+                        <div class="left span-5"><b>E-mail</b></div>
+                        <div class="left">info@green-fields.com.ar</div>
+                        <div class="clear" style="margin-bottom: 10px;"></div>
+
+                        <div class="left span-5"><b>Kontaktpersonen</b></div>
+                        <div class="left">
+                            Dr. Peter Thomas (Handy: 0054 9 6989961)<br />
+                            Margarita Aranguren (Handy: 0054 9 6956460)<br />
+                            Alicia Frugoli (Handy: 0054 9 6956685
+                        </div>
+                        <div class="clear" style="margin-bottom: 20px;"></div>
+
     
                     <form method="post" enctype="application/x-www-form-urlencoded" onsubmit="return validate(this)">                
                         <ul class="container_contact">

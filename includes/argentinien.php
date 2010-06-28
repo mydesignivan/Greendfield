@@ -3,7 +3,6 @@
 <li><a href="#" onclick="Slider.slide({url: 'includes/die-geographie.php'}, 6); return false;"><img src="images/iconos/geografia2.png" alt="" border="0" /> Die Geographie</a></li>
 <li><a href="#" onclick="Slider.slide({url: 'includes/das-klima.php'}, 7); return false;"><img src="images/iconos/clima3.png" alt="" border="0" /> Das Klima</a></li>
 <li><a href="#" onclick="Slider.slide({url: 'includes/das-land.php'}, 8); return false;"><img src="images/iconos/pais.png" alt="" border="0" /> Das Land</a></li>
-<li><a href="#" onclick="Slider.slide({url: 'includes/regionen-in-argentinien.php'}, 9); return false;"><img src="images/iconos/regiones_argentina.png" alt="" border="0" /> Regionen in Argentinien</a></li>
 <li><a href="#" onclick="Slider.slide({url: 'includes/die-soziale-struktur-argentiniens.php'}, 10); return false;"><img src="images/iconos/estructura_social.png" alt="" border="0" /> Die Soziale Struktur Argentiniens</a></li>
 <li><a href="#" onclick="Slider.slide({url: 'includes/kulturelle-beziehungen.php'}, 11); return false;"><img src="images/iconos/relaciones_culturales_argentina_alemania.png" alt="" border="0" /> Kulturelle Beziehungen</a></li>
 <li><a href="#" onclick="Slider.slide({url: 'includes/wirtschaftsbeziehungen.php'}, 12); return false;"><img src="images/iconos/relaciones_econ_argentina_alemania.png" alt="" border="0" /> Wirtschaftsbeziehungen</a></li>
