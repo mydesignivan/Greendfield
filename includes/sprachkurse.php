@@ -6,7 +6,7 @@
 
     <li><a href="#" onclick="Slider.slide({url: 'includes/secciones/download-des-anmeldeformulares.php?returnpage=sprachkurse.php'}, 5); return false;"><img src="images/iconos/download_formularios.png" alt="" border="0" /> Anmeldeformulare</a></li>
 
-    <li><a href="#" onclick="Slider.slide({url: 'includes/secciones/einstufungstest-zu-ihren-spanischkenntnissen.php?returnpage=sprachkurse.php'}, 6); return false;"><img src="images/iconos/test_categorizacion_de_su_conocimiento_en_espanol.png" alt="" border="0" /> Einstufungstest zu Ihren Spanischkenntnissen</a></li>
+    <li><a href="store/green-fields-examen-ubicacion-espaniol.pdf"><img src="images/iconos/test_categorizacion_de_su_conocimiento_en_espanol.png" alt="" border="0" /> Einstufungstest zu Ihren Spanischkenntnissen</a></li>
 
     <li><a href="#" onclick="Slider.slide({url: 'includes/secciones/ihre-anreise.php?returnpage=sprachkurse.php'}, 7); return false;"><img src="images/iconos/su_viaje_de_ida.png" alt="" border="0" /> Ihre Anreise</a></li>
 

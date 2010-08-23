@@ -105,7 +105,7 @@ if( $_SERVER['REQUEST_METHOD']=="POST" && $_POST["send"]=="ok" ){
                         <div class="left">
                             Dr. Peter Thomas (Handy: 0054 9 6989961)<br />
                             Margarita Aranguren (Handy: 0054 9 6956460)<br />
-                            Alicia Frugoli (Handy: 0054 9 6956685
+                            Alicia Frugoli (Handy: 0054 9 6956685)
                         </div>
                         <div class="clear" style="margin-bottom: 20px;"></div>
 
